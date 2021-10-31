@@ -1,0 +1,265 @@
+span{ 
+    color: #F6B400;
+}
+.food{ 
+    align-items: center;
+    display: flex;
+    font-weight: 700;
+    font-size: xx-large;
+    font-family: cursive;
+}
+h3 { font-size: 30px;}
+.cook { color: gray;
+font-size: 25px;
+}
+
+.Biggest{ 
+text-align: left;
+border-image-width: 12px;
+height: auto;
+background-color: #F6B400;
+
+}
+.ul{
+    list-style-type: none;
+    float: right;
+    text-align: center;
+    font-weight: 700;
+    padding: 14px 16px;
+    
+    
+
+
+
+   
+}
+.tags{
+    float: left;
+    text-decoration: none;
+    align-content: flex-end;
+    
+   
+}
+.nav {
+    
+    border-right: 10px;
+    padding: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    display: inline;
+    display:flex;
+
+    
+}
+.Quality { 
+
+
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 10px;
+    border-color: sienna;
+    width: 300px;
+    height: 300px;
+    float: left;
+    margin-left: 100px;
+    margin-top: 250px;
+    text-align: center;
+    padding-top: 20px;
+
+    
+    
+}
+.Delivery{
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 10px;
+    border-color: sienna;
+    width: 300px;
+    height: 330px;
+    float: left;
+    margin-left: 100px;
+    margin-top: 250px;
+    text-align: center;
+    padding-top: 20px;
+    
+    
+}
+
+
+.Menu{ 
+    font-weight: 700;
+    font-size: xx-large;
+    position: absolute;
+    
+    left: 50%;
+    
+    
+
+}
+.advert { 
+width: 100%;
+height: 600px;
+background-color: ghostwhite;
+align-content: center;
+
+
+
+}
+.Begin { 
+    width: 100%;
+    
+    background-color: ghostwhite;
+    
+    padding-bottom: 50px;
+    
+
+    
+    
+    }
+h5{ color:brown;}
+
+
+.First { 
+
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 10px;
+    border-color: sienna;
+    width: 300px;
+    height: 300px;
+    float: left;
+    margin-left: 100px;
+    margin-top: 250px;
+    text-align: center;
+}
+.Second{ 
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 10px;
+    border-color: sienna;
+    width: 300px;
+    height: 300px;
+    float: left;
+    margin-left: 100px;
+    margin-top: 250px;
+    text-align: center;
+
+
+
+
+
+}
+
+.Third{ 
+
+    text-align: center;
+    align-items: center;
+    padding-top: 5%;
+    height: 40%;
+    
+    
+}
+
+.pricetag{
+
+    text-align: center;
+    align-items: center;
+
+}
+
+.Prices { 
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.Begin{ 
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.Pic{ text-align: center;}
+.picc{ text-align: center;}
+
+.site{ text-align: center;}
+.sub{ text-align: end;
+font-weight: bold;
+font-size: large;
+}
+.column{
+    float:left;
+    width: 50%;
+    align-items: center;
+    font-family: fantasy;
+    padding-bottom: 50px;
+    
+
+}
+    
+.row:after{
+    content: '';
+    display: table;
+    clear: both;
+    align-content: center;
+}
+.row{
+    justify-content: center;
+    padding-left: 80px;
+    padding-bottom: 50px;
+    font-family: fantasy;
+
+}
+
+.column1{
+    float:left;
+    width: 30%;
+    align-items: center;
+    font-family: fantasy;
+    padding-bottom: 50px;
+    
+
+}
+    
+.row1:after{
+    content: '';
+    display: table;
+    clear: both;
+    align-content: center;
+}
+.row1{
+    justify-content: center;
+    padding-left: 80px;
+    padding-bottom: 50px;
+    font-family: fantasy;
+
+}
+
+
+
+
+.column2{
+    float:left;
+    width: 30%;
+    align-items: center;
+    font-family: fantasy;
+    padding-bottom: 50px;
+    
+
+}
+    
+.row2:after{
+    content: '';
+    display: table;
+    clear: both;
+    align-content: center;
+}
+.row2{
+    justify-content: center;
+    padding-left: 80px;
+    padding-bottom: 50px;
+    font-family: fantasy;
+
+}
+.tags{ list-style-type: none
+    ;}
