@@ -263,3 +263,10 @@ font-size: large;
 }
 .tags{ list-style-type: none
     ;}
+    .order{ 
+        background-color: #F6B400;
+        border-radius: 40px 20px 0 40px;
+        height: 40px;
+        width: 40;
+        border: none;
+    }
